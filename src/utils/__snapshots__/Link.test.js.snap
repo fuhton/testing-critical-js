@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`utils/Link Link should render with default props 1`] = `
+<a
+  className="default-class-name"
+  href="a.new.url"
+>
+  A New Url
+</a>
+`;
+
+exports[`utils/Link Link should render with passed class name 1`] = `
+<a
+  className="test"
+  href="a.new.url"
+>
+  A New Url
+</a>
+`;
